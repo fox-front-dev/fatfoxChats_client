@@ -1,0 +1,110 @@
+
+.friends.data-v-db42cae2 {
+		padding: 5px 10px;
+}
+.actimage.data-v-db42cae2 {
+		width: 40px;
+		height: 40px;
+}
+.address-book-container.data-v-db42cae2 {
+		background-color: #F7F7F7;
+}
+.address-book.data-v-db42cae2 {
+		background-color: white;
+}
+.contact-img.data-v-db42cae2 {
+		width: 60px;
+		height: 60px;
+		border-radius: 50%;
+		overflow: hidden;
+}
+.scroll-container.data-v-db42cae2 {
+		height: 100vh;
+}
+.letter-nav.data-v-db42cae2 {
+		position: fixed;
+		right: 15px;
+		top: 50%;
+		transform: translateY(-45%);
+		text-align: center;
+}
+.contact-container.data-v-db42cae2 {
+		display: flex;
+		align-items: center;
+}
+.contact-detail-container.data-v-db42cae2 {
+		margin-left: 2%;
+}
+.address-book-index.data-v-db42cae2 {
+		padding-left: 10px;
+		margin-top: 5px;
+		font-size: 18px;
+}
+.contact-container.data-v-db42cae2 {
+		background-color: white;
+		height: 75px;
+		padding: 15px;
+		box-sizing: border-box;
+}
+.item.data-v-db42cae2 {
+		font-family: PingFangSC-Regular, PingFang SC;
+		font-size: 10px;
+		font-weight: 400;
+		color: #333333;
+		width: 7px;
+		height: 20px;
+		margin-top: 1px;
+}
+.bottombor.data-v-db42cae2 {
+		width: 100%;
+		height: 1px;
+		background: #EEEEEE;
+		margin-left: 30px;
+}
+.searchbtn.data-v-db42cae2 {
+		width: 62px;
+		height: 32px;
+		background-color: #5C83FC;
+		color: white;
+		text-align: center;
+		line-height: 32px;
+		border-radius: 17px;
+		margin-left: 15px;
+}
+.input_view.data-v-db42cae2 {
+		display: flex;
+		padding-left: 15px;
+		flex: 1;
+		border-radius: 17px;
+		overflow: hidden;
+		border: 1px solid #7294FE;
+		align-items: center;
+}
+.searchModel.data-v-db42cae2 {
+		box-sizing: border-box;
+		display: flex;
+		padding: 10px 15px;
+}
+.input.data-v-db42cae2 {
+		height: 100%;
+		width: 70%;
+		margin-left: 10px;
+		color: #333;
+}
+.address-book-index.data-v-db42cae2 {
+		background: #F7F7F7;
+		padding-bottom: 5px;
+}
+.playPhone.data-v-db42cae2 {
+		width: 24px;
+		height: 24px;
+		position: absolute;
+		right: 40px;
+}
+.addLoddingFriends.data-v-db42cae2{
+		padding: 15px;
+}
+.addLoddingFriends> .imageViews.data-v-db42cae2{
+		width: 40px;
+		height: 40px;
+}

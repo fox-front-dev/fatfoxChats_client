@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "注册",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-data-checkbox": "../../../uni_modules/uni-data-checkbox/components/uni-data-checkbox/uni-data-checkbox"
+  }
+}

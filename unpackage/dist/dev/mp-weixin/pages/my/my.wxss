@@ -1,0 +1,45 @@
+
+.my-container.data-v-2f1ef635 {
+		min-height: 100vh;
+		background-color: #e2e2e2;
+}
+.main1.data-v-2f1ef635 {
+		background-color: white;
+		display: flex;
+		padding: 30px 0 30px 30px;
+}
+.main1 .left.data-v-2f1ef635 {
+		width: 60px;
+		height: 60px;
+		border-radius: 10px;
+}
+.main1 .right.data-v-2f1ef635 {
+		flex: 1;
+		margin-left: 20px;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+}
+.main1 .right .title.data-v-2f1ef635{
+		font-weight: 600;
+		font-size: 20px;
+}
+.main1 .right .phone.data-v-2f1ef635{
+		color: #7d7d7d;
+}
+.main2 .updateUserInfo.data-v-2f1ef635{
+		background-color: white;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		display: flex;
+		padding: 20px 10px;
+		align-items: center;
+		font-size: 16px;
+}
+.main2 .updateUserInfo_image.data-v-2f1ef635{
+		width: 18px;
+		height:18px;
+		margin: 0 15px;
+		vertical-align: middle;
+}
+	

@@ -1,0 +1,30 @@
+
+.find-container.data-v-1c765c2e{
+		background-color: rgb(248,248,248);
+		min-height: 100vh;
+		padding: 10px 0;
+		box-sizing: border-box;
+}
+.searchFriends.data-v-1c765c2e{
+		height: 30px;
+		border-bottom: 1px solid #f7f7f7;
+		align-items: center;
+		display: flex;
+		margin-top: 10px;
+		background-color: white;
+		padding: 15px 20px;
+		justify-content: space-between;
+}
+.searchFriends >view.data-v-1c765c2e{
+		display: flex;
+		align-items: center;
+		font-size: 18px;
+}
+.addFriend-view.data-v-1c765c2e{
+		width: 25px;
+		height: 25px;
+		margin-right: 20px;
+}
+image.data-v-1c765c2e{
+		vertical-align: middle;
+}

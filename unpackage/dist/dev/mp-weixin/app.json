@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/login/regise/regise",
+    "pages/chat/index",
+    "pages/friends/friends",
+    "pages/my/my",
+    "pages/find/find",
+    "pages/friends/chatPage/chatPage",
+    "pages/find/addFriends/addFriends",
+    "pages/my/settingUserInfo/settingUserInfo",
+    "pages/find/friendsSpaces/friendsSpaces"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#ffffff",
+    "color": "#000000",
+    "selectedColor": "#128ed1",
+    "list": [
+      {
+        "iconPath": "static/image/tabbar2.png",
+        "selectedIconPath": "static/image/tabbar2-check.png",
+        "pagePath": "pages/chat/index",
+        "text": "聊天"
+      },
+      {
+        "iconPath": "static/image/tabbar1.png",
+        "selectedIconPath": "static/image/tabbar1-check.png",
+        "pagePath": "pages/friends/friends",
+        "text": "好友列表"
+      },
+      {
+        "iconPath": "static/image/tabbar4.png",
+        "selectedIconPath": "static/image/tabbar4-check.png",
+        "pagePath": "pages/find/find",
+        "text": "发现"
+      },
+      {
+        "iconPath": "static/image/tabbar3.png",
+        "selectedIconPath": "static/image/tabbar3-check.png",
+        "pagePath": "pages/my/my",
+        "text": "我"
+      }
+    ]
+  },
+  "requiredPrivateInfos": [
+    "getLocation",
+    "onLocationChange",
+    "startLocationUpdateBackground",
+    "chooseAddress"
+  ],
+  "permission": {},
+  "usingComponents": {}
+}

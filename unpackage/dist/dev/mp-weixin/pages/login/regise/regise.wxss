@@ -1,0 +1,48 @@
+
+.phonelogin_title.data-v-c6e6a642 {
+		font-size: 20px;
+		font-family: PingFangSC-Medium, PingFang SC;
+		font-weight: 500;
+		color: #333333;
+		line-height: 28px;
+		margin: 90rpx 0 0 70rpx;
+}
+.phonelogin_input.data-v-c6e6a642 {
+		display: flex;
+		border-bottom: 1px solid #EEEEEE;
+		margin: 0 60rpx;
+		font-size: 16px;
+}
+.phonelogin_input>input.data-v-c6e6a642 {
+		flex: 1;
+}
+.phonelogin_input-style.data-v-c6e6a642 {
+		padding-top: 120rpx;
+		padding-bottom: 10rpx;
+}
+.phonelogin_input-style2.data-v-c6e6a642 {
+		padding-top: 50rpx;
+		padding-bottom: 10rpx;
+		justify-content: space-between;
+		flex: 1;
+}
+.phonelogin_ca.data-v-c6e6a642 {
+		font-size: 14px;
+		font-family: PingFangSC-Medium, PingFang SC;
+		font-weight: 500;
+		color: #5C83FC;
+		line-height: 20px;
+		text-align: center;
+}
+.phonelogin_loginBtn.data-v-c6e6a642 {
+		width: 80%;
+		height: 88rpx;
+		margin: 0 auto;
+		background: #92ACFC;
+		box-shadow: 0px 4px 8px 0px rgba(21, 59, 178, 0.14);
+		border-radius: 22px;
+		text-align: center;
+		line-height: 88rpx;
+		color: white;
+		margin-top: 270rpx;
+}

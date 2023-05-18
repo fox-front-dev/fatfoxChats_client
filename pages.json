@@ -1,0 +1,123 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+				
+			}
+		},{
+		    "path" : "pages/login/regise/regise",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "注册",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},{
+			"path": "pages/chat/index",
+			"style": {
+				"navigationBarTitleText": "胖狐"
+			}
+		},
+		 {
+			"path": "pages/friends/friends",
+			"style": {
+				"navigationBarTitleText": "好友列表",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	    ,{
+            "path" : "pages/my/my",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ffffff"
+            }
+            
+        }
+        ,{
+            "path" : "pages/find/find",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "发现",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/friends/chatPage/chatPage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/find/addFriends/addFriends",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "添加好友",
+                "enablePullDownRefresh": false 
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/settingUserInfo/settingUserInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人信息",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+		    "path" : "pages/find/friendsSpaces/friendsSpaces",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "朋友圈",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+    ],
+	"tabBar": {
+		"backgroundColor": "#ffffff",
+		"color": "#000000",
+		"selectedColor": "#128ed1",
+		"list": [
+			{
+				"iconPath": "static/image/tabbar2.png",
+				"selectedIconPath": "static/image/tabbar2-check.png",
+				"pagePath": "pages/chat/index",
+				"text": "聊天"
+			},{
+				"iconPath": "static/image/tabbar1.png",
+				"selectedIconPath": "static/image/tabbar1-check.png",
+				"pagePath": "pages/friends/friends",
+				"text": "好友列表"
+			},{
+				"iconPath": "static/image/tabbar4.png",
+				"selectedIconPath": "static/image/tabbar4-check.png",
+				"pagePath": "pages/find/find",
+				"text": "发现"
+			},{
+				"iconPath": "static/image/tabbar3.png",
+				"selectedIconPath": "static/image/tabbar3-check.png",
+				"pagePath": "pages/my/my",
+				"text": "我"
+			}
+		]
+
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

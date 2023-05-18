@@ -1,0 +1,54 @@
+
+.phonelogin_title[data-v-e4e4508d] {
+		font-size: 20px;
+		font-family: PingFangSC-Medium, PingFang SC;
+		font-weight: 500;
+		color: #333333;
+		line-height: 28px;
+		margin: 2.8125rem 0 0 2.1875rem;
+}
+.phonelogin_input[data-v-e4e4508d] {
+		display: flex;
+		border-bottom: 1px solid #EEEEEE;
+		margin: 0 1.875rem;
+		font-size: 16px;
+}
+.phonelogin_input>uni-input[data-v-e4e4508d] {
+		flex: 1;
+}
+.phonelogin_input-style[data-v-e4e4508d] {
+		padding-top: 3.75rem;
+		padding-bottom: 0.3125rem;
+}
+.phonelogin_input-style2[data-v-e4e4508d] {
+		padding-top: 1.5625rem;
+		padding-bottom: 0.3125rem;
+		justify-content: space-between;
+		flex: 1;
+}
+.phonelogin_ca[data-v-e4e4508d] {
+		font-size: 14px;
+		font-family: PingFangSC-Medium, PingFang SC;
+		font-weight: 500;
+		color: #5C83FC;
+		line-height: 20px;
+		text-align: center;
+}
+.phonelogin_loginBtn[data-v-e4e4508d] {
+		width: 80%;
+		height: 2.75rem;
+		margin: 0 auto;
+		background: #92ACFC;
+		box-shadow: 0px 4px 8px 0px rgba(21, 59, 178, 0.14);
+		border-radius: 22px;
+		text-align: center;
+		line-height: 2.75rem;
+		color: white;
+		margin-top: 0.9375rem;
+}
+.register[data-v-e4e4508d] {
+		font-size: 14px;
+		color: #5C83FC;
+		text-align: center;
+		margin-top: 30px;
+}
